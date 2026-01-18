@@ -5,7 +5,7 @@ It uses an agent powered by OpenAI’s chat models and supports tool calling, de
 
 The assistant interacts with users in real time, understands natural language prompts, and dynamically decides when to invoke tools to solve tasks.
 
-✨ Features
+## ✨ Features
 
 💬 Interactive command-line chat interface
 
