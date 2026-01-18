@@ -1,4 +1,4 @@
-##AI Assistant (LangChain + LangGraph)
+AI Assistant (LangChain + LangGraph)
 
 This project is a command-line AI assistant built with Python, LangChain, and LangGraph.
 It uses an agent powered by OpenAI’s chat models and supports tool calling, demonstrated with a custom calculator tool.
